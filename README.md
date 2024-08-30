@@ -28,19 +28,27 @@ To run this project locally:
 
 1. Clone the repository
 
-git clone https://github.com/your-username/color-palette-generator.git
+
+    git clone https://github.com/Okan-Pehlivan/color-palette-generator.git
+
 
 2. Navigate to the project directory
 
-cd color-palette-generator
+
+    cd color-palette-generator
+
 
 3. Install dependencies
 
-npm install
+
+    npm install
+
 
 4. Start the development server
 
-npm start
+
+    npm start
+
 
 5. Open [http://localhost:3000](http://localhost:3000) to view it in your browser
 
